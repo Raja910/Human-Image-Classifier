@@ -1,4 +1,4 @@
-# Sports Celebrity Image Classifier
+# Human Image Classifier
 ![Image Classifier Demo](https://github.com/ritwik4690/Image-Classifier/blob/master/demo.gif)
 
 In this data science and machine learning project, I have classified sports personalities. I have restricted classification to only 5 people,
